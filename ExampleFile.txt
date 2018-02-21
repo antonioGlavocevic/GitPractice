@@ -4,3 +4,5 @@ Updated master with extra sentence.
 Added text after the merge.
 
 Change to Master on local only. Now push to orign.
+
+Safe change after roll back
