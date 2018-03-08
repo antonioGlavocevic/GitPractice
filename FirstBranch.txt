@@ -3,5 +3,5 @@ This file is from the first branch.
 Changes to the first branch.
 Changes after the merge.
 
-Change after local master change from parallel branch (without rebase).
+Change after local mastegfgfgr change from parallel branch (without rebase).
 Changes after merge.
