@@ -3,7 +3,7 @@ This file is from the first branch.
 Changes to the first branch.
 Changes after the merge.
 
-Change after local master change from parallel branch (without rebase).
+Change after local master chandgdfgge from parallel branch (without rebase).
 Changes after merge.
 
 New Branch
