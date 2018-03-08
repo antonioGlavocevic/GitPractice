@@ -5,3 +5,5 @@ Changes after the merge.
 
 Change after local master change from parallel branch (without rebase).
 Changes after merge.
+
+New Branch
