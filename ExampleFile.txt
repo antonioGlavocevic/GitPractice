@@ -3,8 +3,10 @@ First git file to track
 Updated master with extra sentence.
 Added text after the merge.
 
-Change to Masgfgfter on local only. Now push to orign.
+Change to Master on local only. Now push to orign.
 
 Safe change after roll back
 
 Test
+
+New Branch
