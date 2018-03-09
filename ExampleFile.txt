@@ -1,12 +1,14 @@
-First git file to track
+    First git file to track
 
-Updated master with extra sentence.
-Added text after the merge.
+        Updated master with extra sentence.
+        Added text after the merge.
 
-Change to Master on local only. Now push to orign.
+        Change to Master on local only. Now push to orign.
 
-Safe change after roll back
+        Safe change after roll back
 
-Test
+    Test
 
-New Branch
+        New Branch
+
+Change with whiteSpace
